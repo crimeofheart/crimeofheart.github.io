@@ -3,7 +3,6 @@ Ekşi Sözlük'te toplu engelleme ve yönetim işlemleri artık çok kolay!
 <br>-[**Chrome Web Store'dan Yükle**](https://chromewebstore.google.com/detail/eksiengelplus/cakplcekfmnpelnchanlpoieoiodepdh)
 <br>-[**Firefox Eklenti Sitesinden Yükle**](https://addons.mozilla.org/firefox/addon/eksiengelplus)
 <br>-[**GitHub'da İncele**](https://github.com/crimeofheart/EksiEngelPlus)
----
 
 ## Özellikler
  🚫 Toplu Engelleme
@@ -38,11 +37,12 @@ Belirli tarih aralıklarındaki kullanıcılara toplu işlem uygulayın: engelle
 Takip ettiğiniz kullanıcıların yanlışlıkla engellenmesini önleyin.
  <br>🌱 Çaylak Engeli
 Favori/takipçi engelinde çaylak (yeni) kullanıcıları dahil edin.
- ### ---
+ 
+ ### Ekran Görüntüleri
  Ana İşlemler [Ana İşlemler Sayfası](https://raw.githubusercontent.com/crimeofheart/EksiEngelPlus/master/docs/ss/notification.png)
  <br>Yazar Listesi [Yazar Listesi Sayfası](https://raw.githubusercontent.com/crimeofheart/EksiEngelPlus/master/docs/ss/authorListPage.png)
  <br>Popup [Eklenti Popup](https://raw.githubusercontent.com/crimeofheart/EksiEngelPlus/master/docs/ss/popup.png)
-<br>---
+
 ### Ayarlar
 🔔 Engelle veya Sessize Al
 İşlemlerin engelleme mi sessize alma mı yapacağını seçin.
