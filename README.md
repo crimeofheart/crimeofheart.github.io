@@ -38,13 +38,13 @@ Belirli tarih aralıklarındaki kullanıcılara toplu işlem uygulayın: engelle
 Takip ettiğiniz kullanıcıların yanlışlıkla engellenmesini önleyin.
  <br>🌱 Çaylak Engeli
 Favori/takipçi engelinde çaylak (yeni) kullanıcıları dahil edin.
----
+ ### ---
  Ana İşlemler [Ana İşlemler Sayfası](https://raw.githubusercontent.com/crimeofheart/EksiEngelPlus/master/docs/ss/notification.png)
  <br>Yazar Listesi [Yazar Listesi Sayfası](https://raw.githubusercontent.com/crimeofheart/EksiEngelPlus/master/docs/ss/authorListPage.png)
  <br>Popup [Eklenti Popup](https://raw.githubusercontent.com/crimeofheart/EksiEngelPlus/master/docs/ss/popup.png)
----
- Ayarlar
-<br>🔔 Engelle veya Sessize Al
+<br>---
+### Ayarlar
+🔔 Engelle veya Sessize Al
 İşlemlerin engelleme mi sessize alma mı yapacağını seçin.
 <br>📚 Başlıkları da Engelle
 Engellenen kullanıcıların başlıklarını da gizleyin.
@@ -52,10 +52,10 @@ Engellenen kullanıcıların başlıklarını da gizleyin.
 Favori/takipçi engelinde çaylak kullanıcıları dahil edin.
 <br>❤️ Takip Edilenleri Koru
 Takip ettiğiniz kullanıcıların engellenmesini önleyin.
----
+### ---
 GitHub Proje kodlarına GitHub üzerinden erişebilirsiniz. Katkıda bulunmak veya hata bildirmek için lütfen repository'yi ziyaret edin.
 <br>[**github.com/crimeofheart/EksiEngelPlus**](https://github.com/crimeofheart/EksiEngelPlus)
----
+### ---
 © 2026 EksiEngelPlus. Tüm hakları saklıdır.
 [**Gizlilik Politikası**](/privacy)
 Bu eklenti Ekşi Sözlük ile bağlantılı değildir.
